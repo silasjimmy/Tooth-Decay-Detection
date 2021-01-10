@@ -1,2 +1,3 @@
-# Tooth-Decay-Detection
-A deep learning model to detect cavities in teeth
+# Tooth Decay Detection
+
+An image classification model to classify demineralized and healthy teeth.
